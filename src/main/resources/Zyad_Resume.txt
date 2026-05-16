@@ -1,0 +1,10 @@
+Name: ZYAD Mamdouh
+YearsOfExperience: 1
+EducationLevel: 2
+ExpectedSalary: 1000
+
+Skills:
+Java:3
+SQL:2
+Python:2
+Excel:1

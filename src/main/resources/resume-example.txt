@@ -1,0 +1,10 @@
+Name: Sara Ahmed
+YearsOfExperience: 3
+EducationLevel: 2
+ExpectedSalary: 12000
+
+Skills:
+Java:3
+SQL:2
+Python:2
+XML:1
