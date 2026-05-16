@@ -113,9 +113,6 @@ job-matching/
     │   │   │   └── ClientHandler.java
     │   │   ├── ui/
     │   │   │   └── CvSelectionApp.java
-    │   │   └── storage/
-    │   │       ├── DataStore.java
-    │   │       └── FileDataStore.java
     │   └── resources/
     │       └── resume-example.txt
     └── test/
