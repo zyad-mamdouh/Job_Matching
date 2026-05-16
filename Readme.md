@@ -1,10 +1,10 @@
-# 🎯 Job Matching System
+#  Job Matching System
 
 A Java 17 Maven application that matches job applicants to job openings using a JavaFX GUI, socket-based client/server communication, and a pluggable matching strategy.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
@@ -76,7 +76,7 @@ User selects TXT file
 | Java JDK | 17+ | Compile and run the application |
 | Apache Maven | 3.8+ | Build tool, dependency management |
 
-> ⚠️ JavaFX is pulled automatically by Maven. You do **not** need to install it separately.
+>  JavaFX is pulled automatically by Maven. You do **not** need to install it separately.
 
 **Verify your setup:**
 
@@ -177,9 +177,9 @@ Once both the server and client are running:
 
 | Score | Status |
 |-------|--------|
-| ≥ 80  | ✅ HIGHLY RECOMMENDED |
-| ≥ 50  | 🟡 POSSIBLE MATCH |
-| < 50  | ❌ NOT RECOMMENDED |
+| ≥ 80  |  HIGHLY RECOMMENDED |
+| ≥ 50  |  POSSIBLE MATCH |
+| < 50  |  NOT RECOMMENDED |
 
 ---
 
